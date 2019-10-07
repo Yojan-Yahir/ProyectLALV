@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="L1">Literatura Juvenil</string>
+    <string name="im1">portada</string>
+    <string name="ins">YojanYahirL</string>
+    <string name="im5">libro</string>
+    <string name="info">info</string>
+    <string name="lib1">Trece sobres azules</string>
+    <string name="lib2">El bestiario de Axlin</string>
+    <string name="lib3">Bellas durmientes</string>
+    <string name="lib4">La raíz cuadrada del verano</string>
+    <string name="lib7">El piso mil</string>
+    <string name="lib6">Solo una idiota se enamora</string>
+    <string name="lib8">El nombre del viento</string>
+    <string name="nota1">Selecciona un título para conocer su portada y sinopsis...</string>
+    <string name="regresa">Regresar</string>
+    <string name="tex1">Dentro de un sobre azul dirigido a Ginny hay mil dólares e instrucciones para comprar un billete de avión. En el sobre número 2 hay instrucciones para llegar a un piso en Londres. El número 3 contiene una nota que dice: «Busca a un artista sin un centavo». Por culpa del sobre número 4, Ginny y Keith se marchan juntos a Escocia, y el resultado es el inicio de una historia de amor un tanto desastrosa.Todo en la vida de Ginny sufrirá un gran cambio, y todo se debe a trece sobres azules.</string>
+    <string name="tex2">El mundo de Axlin está plagado de monstruos. Algunos atacan a los viajeros en los caminos, otros asedian las aldeas hasta arrasarlas, y otros entran en las casas para llevarse a los niños mientras duermen. Axlin ha crecido sabiendo que la próxima puede ser ella, por eso se ha propuesto descubrirlo todo acerca de los monstruos y plasmarlo en un libro que pueda servir de guía y protección a otras personas. Pero pronto se da cuenta de que si realmente quiere salvar a alguien, tendrá que salir de su aldea y recorrer el ancho e inseguro mundo de ahí afuera. A lo largo de su viaje descubrirá cosas que jamás habría imaginado cuando partió.</string>
+    <string name="tex3">Gottie H. Oppenheimer, diecisiete años, huérfana de madre y un genio de la física, lleva mucho tiempo sumida en su particular materia oscura. Este verano, cuando el regreso de su novio secreto y el de su gran amigo de infancia prometían devolver algo de luz a su universo, el tiempo ha empezado a jugarle a Gottie malas pasadas en forma de inexplicables «agujeros agujeros en el tiempo» que la conducen a momentos clave de su pasado.Y mientras intenta desentrañar qué está sucediendo, el pasado, el presente y el futuro están a punto de colisionar… en un Big Bang revelador</string>
+    <string name="tex4">En esta espectacular colaboración entre padre e hijo, Stephen King y Owen King nos ofrecen la historia más arriesgada de cuantas han contado hasta ahora: ¿qué pasaría si las mujeres abandonaran este mundo? En un futuro tan real y cercano que podría ser hoy, cuando las mujeres se duermen, brota de su cuerpo una especie de capullo que las aísla del exterior. Si las despiertan, las molestan o tocan el capullo que las envuelve, reaccionan con una violencia extrema. Y durante el sueño se evaden a otro mundo. Los hombres, por su parte, quedan abandonados a sus instintos primarios. La misteriosa Evie, sin embargo, es inmune a esta bendición o castigo del trastorno del sueño. ¿Se trata de una anomalía médica que hay que estudiar? ¿o es un demonio al que hay que liquidar?</string>
+    <string name="tex5">Helena lo ha vuelto a hacer. Se ha vuelto a enamorar. Se fue a Londres a hacer las prácticas de enfermería para olvidar a su ex y... ¡zas! Ahí va otra vez, y esta vez es peor que nunca, con un chico de ensueño: Carlo, italiano, morenazo, artista y todo un caballero. ¿Qué más puede pedir? Pero la vida no se lo va a poner nada fácil y para ganarse el título de “La tía más afortunada del planeta” va a tener que enfrentarse a Aneléh, una misteriosa chica con un único propósito: hacerle la vida imposible</string>
+    <string name="tex6">A tres kilómetros del suelo, la chica piensa: (Si no hubiese hablado con él). A un kilómetro del suelo, piensa: (Si hubiese contado la verdad). Después ya no piensa nada. Sus secretos caen al vacío con ella, pero su historia no acabará con su muerte. La caída de una joven desde la planta 1000, desvelará los secretos de las escandalosas vidas de unos personajes que el lector jamás olvidará. </string>
+    <string name="tex7">Kvothe es un personaje legendario, el héroe y el villano de miles de historias que corren entre la gente. Todos le dan por muerto, cuando en realidad vive con un nombre falso en una posada apartada y humilde, de la que es propietario. Nadie sabe quién es. Hasta que una novhe un viajero, llamado el cronista, le reconoce y le suplica que le revele su historia, la verdadera, a lo que finalmente Kvothe accede. Pero habrá mucho que contar, le llevará tres días</string>
+    <string name="info1">Esta aplicacíon fue realizada como proyecto del primer parcial de la materia de Introducción a aplicaciones móviles.</string>
+    <string name="info2">Autor: Luis Alberto López Valdiviezo</string>
+    <string name="info3">Carrera: Ingeniería en sistemas computacionales.</string>
+    <string name="info4">Tecnológico de Estudios Superiores del Oriente del Estao de México</string>
+    <string name="info5">Paraje san Isidro s/n, colonia barrio de tecamachalco municipio la paz, estado de México.</string>
+    <string name="info6">Tel: 0155-59863497</string>
+    <string name="info7">Correo: lopezyojan3@gmail.com</string>
+
+
+</resources>
